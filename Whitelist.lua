@@ -1,0 +1,15 @@
+return {
+    ["jhojet23"] = true,
+    ["ryanpadri"] = true,
+    ["SOE_GAGI"] = true,
+    ["gamestyep25"] = true,
+    ["bahomp_pre"] = true,
+    ["DJ_Bumbai3"] = true,
+    ["Itsme_Omskun"] = true,
+    ["Mcjanmapatac123"] = true,
+    ["huhseller09"] = true,
+    ["santos0123078"] = true,
+    ["DeeV_LorD"] = true,
+    ["KingBaconMuscle1"] = true,
+    ["AKUNPALSU04"] = true,
+}

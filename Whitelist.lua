@@ -13,4 +13,6 @@ return {
     ["KingBaconMuscle1"] = true,
     ["AKUNPALSU04"] = true,
     ["MOBPSYCHO850"] = true,
+    ["Kian09629"] = true,
+    ["Kian_alt157"] = true,
 }

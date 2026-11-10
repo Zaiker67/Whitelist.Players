@@ -15,5 +15,5 @@ return {
     ["MOBPSYCHO850"] = true,
     ["Kian_09629"] = true,
     ["Kian_alt157"] = true,
-    ["Gamestyeop"] = true,
+    ["gamestyeop"] = true,
 }
